@@ -1,0 +1,13 @@
+PUT http://localhost:8080/acolhe/usuario/alterarCadastro/1
+Content-Type: application/json
+
+{
+  "nmUsuario": "Fraldvhvgvhinha",
+  "saldo": 1,
+  "imagem": "200",
+  "telefone": "12",
+  "email": "aaa@gmail.com",
+  "senha": "s",
+  "cod_skin_principal": 2,
+  "premium": true
+}
